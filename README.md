@@ -22,8 +22,8 @@
 
 #### 🏆 Achievements:
 
-* Codewars - Rank 3 KYU: Solved complex programming challenges including assembly interpreters, Huffman encoding, and Sudoku solvers [cite: 10]
-* First Place Winner - DSP National Student Software Developer Competition (2020) [cite: 21]
+* Codewars - Rank 4 KYU: Solved complex programming challenges including assembly interpreters, Huffman encoding, and Sudoku solvers
+* First Place Winner - DSP National Student Software Developer Competition (2020)
 
 #### 🤝 Let's Connect:
 
