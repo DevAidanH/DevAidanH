@@ -28,6 +28,7 @@
 #### 🤝 Let's Connect:
 
 * GitHub: [https://github.com/DevAidanH](https://github.com/DevAidanH)
+* Email: devaidanh@gmail.com
 
 ---
 
