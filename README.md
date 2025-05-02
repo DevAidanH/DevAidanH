@@ -5,11 +5,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevAidanH&theme=material-palenight)](https://github.com/DevAidanH) -->
 
 ---
-
-#### 🌱 Currently Seeking:
-
-* Opportunities to apply technical and problem-solving skills in a professional development role.
-
 #### 🔭 My Interests:
 
 * Full-stack mobile and web development
