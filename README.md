@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Aidan Humpidge
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAidanH&show_icons=true&theme=material-palenight)](https://github.com/DevAidanH)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevAidanH&theme=material-palenight)](https://github.com/DevAidanH)
-
 ---
 #### 🔭 My Interests:
 
@@ -29,3 +26,7 @@
 ---
 
 Feel free to reach out! 😊
+
+---
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAidanH&show_icons=true&theme=material-palenight)](https://github.com/DevAidanH)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevAidanH&theme=material-palenight)](https://github.com/DevAidanH)
